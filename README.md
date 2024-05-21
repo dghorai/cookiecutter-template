@@ -6,10 +6,6 @@ tags: data-science, geospatial, machine-learning, cookiecutter-template, python,
 
 ## Requirements
 
-- [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
-- [Cookiecutter Python package:](https://cookiecutter.readthedocs.io/en/latest/installation.html)
-    - This can be installed with pip by or conda depending on how you manage your Python packages:
-
 ```
 pip install cookiecutter
 ```
