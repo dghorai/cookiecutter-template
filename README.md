@@ -25,7 +25,7 @@ conda install -c conda-forge cookiecutter
 
 In a folder where you want your project generated:
 ``` bash
-cookiecutter https://github.com/dghorai/cookiecutter-gds
+cookiecutter https://github.com/dghorai/cookiecutter-template
 ```
 
 ## The resulting directory structure
